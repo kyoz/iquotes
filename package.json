@@ -12,8 +12,11 @@
   "scripts": {
     "test": "xo && ava --verbose"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": "banminkyoz/iquotes",
-  "keywords": [ 
+  "keywords": [
     "node",
     "module",
     "node_module",
@@ -21,8 +24,7 @@
     "inspirational",
     "inspirational_quotes"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "ava": "^0.25.0",
     "xo": "^0.21.1"

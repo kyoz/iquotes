@@ -1,30 +1,52 @@
 [
   {
     "quote": "To love is nothing. To be loved is something. But to love and be loved, that’s everything.",
-    "author": "T. Tolis"
+    "author": "T. Tolis",
+    "category": "Love"
   },
   {
     "quote": "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
-    "author": "Angelita Lim"
+    "author": "Angelita Lim",
+    "category": "Love"
   },
   {
     "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
-    "author": "Lao-Tzu"
+    "author": "Lao-Tzu",
+    "category": "Love"
   },
   {
     "quote": "Love is like war: easy to begin but very hard to stop.",
-    "author": "H. L. Mencken"
+    "author": "H. L. Mencken",
+    "category": "Love"
   },
   {
     "quote": "Thinking of you keeps me awake. Dreaming of you keeps me asleep. Being with you keeps me alive.",
-    "author": "Unknown"
+    "author": "Unknown",
+    "category": "Love"
   },
   {
     "quote": "Love is so short, forgetting is so long.",
-    "author": "Pablo Neruda"
+    "author": "Pablo Neruda",
+    "category": "Love"
   },
   {
     "quote": "The greatest thing you'll ever learn Is to love and be loved in return.",
-    "author": "Natalie Cole"
+    "author": "Natalie Cole",
+    "category": "Love"
+  },
+  {
+    "quotes": "Love is a fire. But whether it is going to warm your hearth or burn down your house, you can never tell.",
+    "author": "Joan Crawford",
+    "category": "Love"
+  },
+  {
+    "quotes": "Women are meant to be loved, not to be understood.",
+    "author": "Oscar Wilde",
+    "category": "Love"
+  },
+  {
+    "quotes": "If you love somebody, let them go, for if they return, they were always yours. And if they don’t, they never were.",
+    "author": "Khalil Gibran",
+    "category": "Love"
   }
 ]
