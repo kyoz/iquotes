@@ -385,6 +385,11 @@
     "category": "Life"
   },
   {
+    "quotes": "Be kind to all creatures.",
+    "author": "Buddha",
+    "category": "Life"
+  },
+  {
     "quote": "Three things cannot be long hidden: the sun, the moon, and the truth.",
     "author": "Buddha",
     "category": "Life"
@@ -592,6 +597,16 @@
   {
   "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
   "author": "Abraham Lincoln",
+  "category": "Life"
+  },
+  {
+    "quotes": "Who are we as human beings if we ignore the suffering of others?",
+    "author": "Unknown",
+    "category": "Life"
+  },
+  {
+  "quotes": "Those who teach the most about humanity, aren’t always humans.",
+  "author": "Donald L. Hicks",
   "category": "Life"
   }
 
