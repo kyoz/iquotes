@@ -12,25 +12,25 @@ const quotes = new Map()
   .set('dev', devQuotes)
   .set('all', [...lifeQuotes, ...devQuotes, ...loveQuotes]);
 
-exports.all = type => quotes.has(type) ? quotes.get(type) : type ? [] : quotes.get('all');
+exports.all = category => quotes.has(category) ? quotes.get(category) : category ? [] : quotes.get('all');
 
-exports.random = type => quotes.has(type) ? randomFrom(quotes.get(type)) : type ? {} : randomFrom(quotes.get('all'));
+exports.random = category => quotes.has(category) ? randomFrom(quotes.get(category)) : category ? {} : randomFrom(quotes.get('all'));
 
-exports.count = type => quotes.has(type) ? quotes.get(type).length : type ? 0 : quotes.get('all').length;
+exports.count = category => quotes.has(category) ? quotes.get(category).length : category ? 0 : quotes.get('all').length;
 
-exports.types = [...quotes.keys()];
+exports.countDetail = countDetail;
 
-exports.countDetail = () => {
+exports.categories = [...quotes.keys()];
+
+function countDetail() {
   const result = [];
 
-  for (const type of this.types) {
+  for (const category of this.types) {
     result.push({
-      type,
-      count: quotes.get(type).length
+      category,
+      count: quotes.get(category).length
     });
   }
 
   return result;
-};
-
-console.log(this.countDetail());
+}

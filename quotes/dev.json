@@ -1,34 +1,92 @@
 [
   {
     "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
-    "author": "Martin Golding"
+    "author": "Martin Golding",
+    "category": "Dev"
   },
   {
     "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
-    "author": "Patrick McKenzie"
+    "author": "Patrick McKenzie",
+    "category": "Dev"
   },
   {
     "quote": "Java is to JavaScript as ham is to hamster.",
-    "author": "Jeremy Keith"
+    "author": "Jeremy Keith",
+    "category": "Dev"
   },
   {
     "quote": "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.",
-    "author": "Andrew Hunt"
+    "author": "Andrew Hunt",
+    "category": "Dev"
   },
   {
     "quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
-    "author": "Oscar Godson"
+    "author": "Oscar Godson",
+    "category": "Dev"
   },
   {
     "quote": "Talk is cheap. Show me the code.",
-    "author": "Linus Torvalds"
+    "author": "Linus Torvalds",
+    "category": "Dev"
   },
   {
     "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
-    "author": "Louis Srygley"
+    "author": "Louis Srygley",
+    "category": "Dev"
   },
   {
     "quote": "If Internet Explorer is brave enough to ask to be your default browser, You are brave enough to ask that girl out.",
-    "author": "Internet"
+    "author": "Unknown",
+    "category": "Dev"
+  },
+  {
+    "quote": "It’s not a bug. It’s an undocumented feature!",
+    "author": "Unknown",
+    "category": "Dev"
+  },
+  {
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in",
+    "author": "Edsger Dijkstra",
+    "category": "Dev"
+  },
+  {
+    "quote": "I don’t care if it works on your machine! We are not shipping your machine!",
+    "author": "Vidiu Platon",
+    "category": "Dev"
+  },
+  {
+    "quote": "My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.",
+    "author": "Unknown",
+    "category": "Dev"
+  },
+  {
+    "quote": "Before software can be reusable it first has to be usable.",
+    "author": "Ralph Johnson",
+    "category": "Dev"
+  },
+  {
+    "quote": "Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.",
+    "author": "Mosher’s Law of Software Engineering",
+    "category": "Dev"
+  },
+  {
+    "quote": "When debugging, novices insert corrective code; experts remove defective code.",
+    "author": "Richard Pattis",
+    "category": "Dev"
+  },
+  {
+    "quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "author": "Linus Torvalds",
+    "category": "Dev"
+  },
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "Dev"
+  },
+  {
+    "quote": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?",
+    "author": "Steve McConnell (Code Complete)",
+    "category": "Dev"
   }
 ]
