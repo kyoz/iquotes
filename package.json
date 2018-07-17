@@ -13,7 +13,8 @@
     "test": "xo && ava --verbose"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "quotes"
   ],
   "repository": "banminkyoz/iquotes",
   "keywords": [
