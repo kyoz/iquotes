@@ -4,6 +4,10 @@
 
 [![Build Status](https://travis-ci.org/banminkyoz/iquotes.svg?branch=master)](https://travis-ci.org/banminkyoz/iquotes) [![NPM version](https://badge.fury.io/js/iquotes.svg)](http://badge.fury.io/js/iquotes) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
+<p align="center">
+  <img src="./banner.png" width="800" style=" box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);">
+</p>
+
 ## Introduction
 
 API of inspirational >280 quotes (Carefully collected) with 3 category:
