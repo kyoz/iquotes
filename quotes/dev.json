@@ -90,22 +90,22 @@
     "category": "Dev"
   },
   {
-    "quotes": "A good programmer looks both ways before crossing a one-way street.",
+    "quote": "A good programmer looks both ways before crossing a one-way street.",
     "author": "Unknown",
     "category": "Dev"
   },
   {
-    "quotes": "First, solve the problem. Then, write the code.",
+    "quote": "First, solve the problem. Then, write the code.",
     "author": "John Johnson",
     "category": "Dev"
   },
   {
-    "quotes": "Only half of programming is coding. The other 90% is debugging.",
+    "quote": "Only half of programming is coding. The other 90% is debugging.",
     "author": "Unknown",
     "category": "Dev"
   },
   {
-    "quotes": "Pasting code from the Internet into production code is like chewing gum found in the street.",
+    "quote": "Pasting code from the Internet into production code is like chewing gum found in the street.",
     "author": "Unknown",
     "category": "Dev"
   }
