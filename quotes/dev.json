@@ -88,5 +88,25 @@
     "quote": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?",
     "author": "Steve McConnell (Code Complete)",
     "category": "Dev"
+  },
+  {
+    "quotes": "A good programmer looks both ways before crossing a one-way street.",
+    "author": "Unknown",
+    "category": "Dev"
+  },
+  {
+    "quotes": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "Dev"
+  },
+  {
+    "quotes": "Only half of programming is coding. The other 90% is debugging.",
+    "author": "Unknown",
+    "category": "Dev"
+  },
+  {
+    "quotes": "Pasting code from the Internet into production code is like chewing gum found in the street.",
+    "author": "Unknown",
+    "category": "Dev"
   }
 ]

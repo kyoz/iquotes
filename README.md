@@ -6,11 +6,11 @@
 
 ## Introduction
 
-API of inspirational ~280 quotes (Carefully collected) with 3 category:
+API of inspirational >280 quotes (Carefully collected) with 3 category:
 
-* Life (~162 quotes)
+* Life (~160 quotes)
 * Love (~100 quotes)
-* Development (~18 quotes)
+* Development (~20 quotes)
 
 ## Install
 
@@ -41,6 +41,8 @@ Get list of all quotes by [categories](#supported-categories)
 
 ```js
 iquotes.all('life');
+// or
+iquotes.all(); // To get all quotes
 
 // [
 //   {
@@ -58,7 +60,9 @@ iquotes.all('life');
 Get random quotes from all quotes or by [cagegories](#supported-categories)
 
 ```js
-iquotes.random(); // iquotes.random('life');...
+iquotes.random(); 
+// or
+iquotes.random('life'); // To get random life quotes
 
 // {
 //   "quote": "The master has failed more times than the beginner has even tried.",
@@ -67,14 +71,14 @@ iquotes.random(); // iquotes.random('life');...
 // }
 ```
 
-### .count(category: string = 'all;): number
+### .count(category: string = 'all'): number
 
 Get number of all quotes or number of quotes by [categories](#supported-categories)
 
 ```js
 iquotes.count();
 // 280
-iquotes.count('love);
+iquotes.count('love');
 // 100
 ```
 
@@ -108,7 +112,7 @@ iquotes.categories();
 - `life`
 - `love`
 - `dev` (Development)
-- `all` - Default (If not provide any categories)
+- `all` - Default (If not provide any categories or provide `all`)
 
 ## Related
 

@@ -18,14 +18,10 @@ exports.random = category => quotes.has(category) ? randomFrom(quotes.get(catego
 
 exports.count = category => quotes.has(category) ? quotes.get(category).length : category ? 0 : quotes.get('all').length;
 
-exports.countDetail = countDetail;
-
-exports.categories = [...quotes.keys()];
-
-function countDetail() {
+exports.countDetail = () => {
   const result = [];
 
-  for (const category of this.types) {
+  for (const category of this.categories()) {
     result.push({
       category,
       count: quotes.get(category).length
@@ -33,4 +29,6 @@ function countDetail() {
   }
 
   return result;
-}
+};
+
+exports.categories = () => [...quotes.keys()];

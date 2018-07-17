@@ -38,14 +38,14 @@ test('get count', t => {
 });
 
 test('get count detail', t => {
-  t.deepEqual(iquotes.countDetail, [
-    {type: 'life', count: lifeQuotes.length},
-    {type: 'love', count: loveQuotes.length},
-    {type: 'dev', count: devQuotes.length},
-    {type: 'all', count: lifeQuotes.length + loveQuotes.length + devQuotes.length}
+  t.deepEqual(iquotes.countDetail(), [
+    {category: 'life', count: lifeQuotes.length},
+    {category: 'love', count: loveQuotes.length},
+    {category: 'dev', count: devQuotes.length},
+    {category: 'all', count: lifeQuotes.length + loveQuotes.length + devQuotes.length}
   ]);
 });
 
 test('get types', t => {
-  t.deepEqual(iquotes.categories, ['life', 'love', 'dev', 'all']);
+  t.deepEqual(iquotes.categories(), ['life', 'love', 'dev', 'all']);
 });
