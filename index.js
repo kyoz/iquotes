@@ -1,8 +1,8 @@
 'use strict';
 
-const lifeQuotes = require('./quotes/life');
-const loveQuotes = require('./quotes/love');
-const devQuotes = require('./quotes/dev');
+const lifeQuotes = require('./quotes/life.json');
+const loveQuotes = require('./quotes/love.json');
+const devQuotes = require('./quotes/dev.json');
 
 const randomFrom = array => array[Math.floor(Math.random() * array.length)];
 
