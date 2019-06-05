@@ -240,7 +240,7 @@
     "category": "Life"
   },
   {
-    "quote": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. ",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
     "author": "Albert Einstein",
     "category": "Life"
   },
@@ -261,6 +261,11 @@
   },
   {
     "quote": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "quote": "If you can't explain it to a six year old, you don't understand it yourself.",
     "author": "Albert Einstein",
     "category": "Life"
   },
@@ -809,8 +814,23 @@
     "category": "Life"
   },
   {
-    "quote": "Buy what you need, not what you want",
+    "quote": "Buy what you need, not what you want.",
     "author": "Unknown",
+    "category": "Life"
+  },
+  {
+    "quote": "If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "quote": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "quote": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
+    "author": "Albert Einstein",
     "category": "Life"
   }
 ]
